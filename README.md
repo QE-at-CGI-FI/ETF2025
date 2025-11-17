@@ -2,8 +2,7 @@
 
 Exploratory Testing Foundations 2025 edition.
 
-This project in version control is set up so that we can better experience control over the test target and any related test artifacts we create on the course. 
+This version-controlled project is set up to provide better control over the test target and any related test artifacts created during the course.
 
-This site is published at https://qe-at-cgi-fi.github.io/ETF2025/app/
-
-The full-text version of course is available at https://qe-at-cgi-fi.github.io/ETF2025/material/
+- Site: [ETF2025 app](https://qe-at-cgi-fi.github.io/ETF2025/app/)
+- Full course material: [ETF2025 material](https://qe-at-cgi-fi.github.io/ETF2025/material/)
