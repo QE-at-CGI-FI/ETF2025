@@ -1,10 +1,12 @@
-# Session 4
+# Session
 
 ## Charter: 
 
-*Target*: 
-*Resources* 
-*Information*: 
+*Target*: e-prime application
+
+*Resources*: various environments
+
+*Information*: differences in environments. Does it work the same way in all browsers? Does it work differently in mobile browsers? Does it work differently if I vary browser settings? 
 
 ## What we did
 
