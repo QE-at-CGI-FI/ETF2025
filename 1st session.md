@@ -2,7 +2,7 @@
 
 ## How many bugs you got in your pair?
 
-5-16-12-8-10-9-7-14/39
+5-16-12-8-10-9-7-14.  32/39
 
 ## What we did
 
