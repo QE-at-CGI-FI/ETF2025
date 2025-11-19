@@ -13,8 +13,8 @@ What we found:
 
 Some links: 
 
-- awesome falsehoods https://github.com/kdeldycke/awesome-falsehood?tab=readme-ov-file#emails
-- useful lists on https://wiley.com/go/takingtestingseriously
+- [awesome falsehoods](https://github.com/kdeldycke/awesome-falsehood)
+- [useful lists on](https://www.wiley.com/go/takingtestingseriously)
 
 
 Exploratory Testing Work Course: 
