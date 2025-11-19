@@ -15,6 +15,7 @@ Some links:
 
 - [awesome falsehoods](https://github.com/kdeldycke/awesome-falsehood)
 - [useful lists on](https://www.wiley.com/go/takingtestingseriously)
+- [ Heuristic Periodic Table](https://www.slideshare.net/slideshow/software-testing-heuristics-cheat-sheet/77104123)
 
 
 Exploratory Testing Work Course: 
