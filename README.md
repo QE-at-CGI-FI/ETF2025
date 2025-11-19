@@ -15,3 +15,9 @@ Some links:
 
 - awesome falsehoods https://github.com/kdeldycke/awesome-falsehood?tab=readme-ov-file#emails
 - useful lists on https://wiley.com/go/takingtestingseriously
+
+
+Exploratory Testing Work Course: 
+
+- [Download OpenOffice](https://www.openoffice.org/download/)
+- [Common notetaking](https://bit.ly/3XHVolf)
