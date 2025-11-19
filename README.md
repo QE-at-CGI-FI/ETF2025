@@ -7,3 +7,7 @@ This version-controlled project is set up to provide better control over the tes
 - Site: [ETF2025 app](https://qe-at-cgi-fi.github.io/ETF2025/app/)
 - Full course material: [ETF2025 material](https://qe-at-cgi-fi.github.io/ETF2025/material/)
 - bugs: [List of bugs](https://github.com/QE-at-CGI-FI/ETF2025/blob/main/bugs.md)
+
+- awesome falsehoods https://github.com/kdeldycke/awesome-falsehood?tab=readme-ov-file#emails
+
+- useful lists on https://wiley.com/go/takingtestingseriously
